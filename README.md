@@ -1,6 +1,6 @@
 # Ping Pong Game - Version 2.0
 
-A simple Python-based ping pong game using the Turtle graphics library. The game features a black background with white objects, and the "ball" is represented by a square. Please note that there may be issues with the audio file "bounce.wav," so make sure it is in the same directory as the Python (.py) file.
+A simple Python-based ping pong game using the Turtle graphics library. Made as a code-along project when first learning Python. Trying to change values and testing, added scoreboard. The game features a black background with white objects, and the "ball" is represented by a square. Please note that there may be issues with the audio file "bounce.wav," so make sure it is in the same directory as the Python (.py) file.
 
 ## How to Play
 
