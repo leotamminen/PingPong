@@ -21,7 +21,7 @@ A simple Python-based ping pong game using the Turtle graphics library. The game
 ## Running the Game
 
 1. Ensure you have Python installed on your system.
-2. Download the Python file (pingpong.py) and the audio file (bounce.wav).
+2. Download the Python file (PingPong2.0.py) and the audio file (bounce.wav).
 3. Place both files in the same directory.
 4. Run the Python file to start the game.
 
